@@ -10,7 +10,7 @@
 - create google cluster
   ```bash
     $ gcloud container clusters create [CLUSTER_NAME]
-    $ gcloud container clusters get-credentails [CLUSTER_NAME]
+    $ gcloud container clusters get-credentials [CLUSTER_NAME]
   ```
 - apply deployment on google kubernetes engine
   ```bash
